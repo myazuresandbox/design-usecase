@@ -1,26 +1,7 @@
 # Design Usecases
 
-Write Summary Requested
 
-
-Sreekanth S
-Write a summary about the following
-
-I'm sorry, but you will need to provide some information for me to summarize. Could you please provide a text or topic for me to summarize?
-
-
-
-
-Sreekanth S
-I am software architect with a working experience of 15 years, started my career as a cold fusion later. Taken up more responsibility as a tech lead and offshore development and support lead. Worked predominantly on banking and insurance sector had an opportunity to work on applications that are built for different countries around the world, expert in applications development , code review, release planning, integration design, testing coordination, operation hand over , defect triage, troubleshooting etc
-
-Based on the information you provided, it appears that you have been working as a software architect for 15 years and have experience in a variety of roles including tech lead, offshore development and support lead. You have worked primarily in the banking and insurance sectors and have experience developing applications for a global market. Your skills and experience include application development, code review, release planning, integration design, testing coordination, operation handover, defect triage, and troubleshooting. Is this correct?
-
-
-
-
-Sreekanth S
-How to write a user story in agile methodologies 
+# How to write a user story in agile methodologies 
 
 In Agile methodologies, user stories are a way to capture and communicate requirements from the perspective of the end user. Writing a user story typically involves the following steps:
 
@@ -36,9 +17,7 @@ It's important to keep user stories concise and focused on a single need or bene
 
 
 
-
-Sreekanth S
-How do I write a production incident as a user story?
+#How do I write a production incident as a user story?
 
 When writing a production incident as a user story in an Agile context, the goal is to capture the problem that occurred in a way that can be communicated to the development team and acted upon as a priority. Here are some steps you can follow:
 
@@ -57,8 +36,7 @@ Here's an example of a user story that addresses a production incident:
 
 
 
-Sreekanth S
-Can you please give some real world examples of production incidents and it corresponding user stories?
+#Can you please give some real world examples of production incidents and it corresponding user stories?
 
 Sure, here are a few examples of production incidents and their corresponding user stories:
 
